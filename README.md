@@ -1,5 +1,4 @@
-## Olá, bem vindo! 👋
-## Hello, Welcome! 👋
+## Hello, World! 👋
 
 ### Social 
 
