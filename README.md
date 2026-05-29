@@ -7,8 +7,3 @@
 - :computer: FullStack Developer
 - 🎓 System of Information Graduate
 
-<div align="left">
-  
-[![Victor top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpriano&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
